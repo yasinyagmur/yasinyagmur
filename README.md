@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+Yagmur;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+Yagmur;Welcome+to+my+Github+profile;I'm+learning+IT;)](https://git.io/typing-svg)
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -112,9 +112,20 @@
 
 
 
-<h3 align="left">Feel Free to Contact me.....</h3>
+<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
 	<a href="https://github.com/yasinyagmur"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/yasinyagmur/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	
 </p>
+
+<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yasinyagmur}/count.svg" /></p> 
+<br>
+</div>
+
