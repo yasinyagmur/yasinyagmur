@@ -1,11 +1,25 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**yasinyagmur/yasinyagmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+## Github Contribution Streak 🔥 
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=yasinyagmur&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
-Here are some ideas to get you started:
+<hr>
+## Most Used Languages 📚
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasinyagmur&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
 
-- 🔭 I’m currently working on HTML, CSS, Bootstrap, Sass, JavaScript, React, django, PostgradeSQL, MySQL,
-- 🌱 Slowly and steadily, I'm trying to be better than yesterday😉
-- 💬 Me about: Maybe years later ı found what ı was looking for in the IT world.
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yasinygmr/) 
+<hr>
+
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/yasinyagmur"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/yasinyagmur/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+</p>
