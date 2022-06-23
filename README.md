@@ -107,7 +107,7 @@
 
 
 <!-- Hero Section -->
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=yasinyagmur&theme=react-dark" alt="yasinyagmur github activity graph" /></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=yasinagmur&theme=react-dark" alt="yasinyagmur github activity graph" /></p>
 <!-- <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /> -->
 
 
