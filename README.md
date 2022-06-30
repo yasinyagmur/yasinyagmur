@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+Yagmur;Welcome+to+my+Github+profile;I'm+learning+the+Full+Stack+Development;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+Yagmur;Welcome+to+my+Github+profile;I'm+Full+Stack+Developer;)](https://git.io/typing-svg)
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
