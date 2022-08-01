@@ -61,9 +61,9 @@
 <!--     <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
             src="https://jwt.io/img/pic_logo.svg"
             alt="JWT" width="40" height="40" /> </a> -->
-    <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
+<!--	<a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
+            alt="mongodb" width="40" height="40" /> </a>-->
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
